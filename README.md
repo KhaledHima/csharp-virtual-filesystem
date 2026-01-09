@@ -28,4 +28,4 @@ and a command-line shell similar to Windows CMD.
 This project is for educational purposes only and is not a real OS.
 
 ## Author
-Khaled Ibrahim
+KhaledHima
