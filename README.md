@@ -27,5 +27,5 @@ and a command-line shell similar to Windows CMD.
 ## Disclaimer
 This project is for educational purposes only and is not a real OS.
 
-## Author
-KhaledHima
+## Student
+- KhaledHima
